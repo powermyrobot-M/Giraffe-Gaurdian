@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A majestic reticulated giraffe stands tall in the Kenyan savanna.",
+      "imageUrl": "https://images.unsplash.com/photo-1738507950594-dcb1c7eaec3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnaXJhZmZlJTIwc2F2YW5uYXxlbnwwfHx8fDE3NzA2MjM1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe savanna"
+    },
+    {
+      "id": "gallery1",
+      "description": "A close-up of a reticulated giraffe's unique coat pattern.",
+      "imageUrl": "https://images.unsplash.com/photo-1609848906912-444979ae42dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxnaXJhZmZlJTIwcGF0dGVybnxlbnwwfHx8fDE3NzA2MjM1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe pattern"
+    },
+    {
+      "id": "gallery2",
+      "description": "A giraffe family grazing in Isiolo County.",
+      "imageUrl": "https://images.unsplash.com/photo-1636744115332-54f8839951e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnaXJhZmZlJTIwZmFtaWx5fGVufDB8fHx8MTc3MDYyMzU3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe family"
+    },
+    {
+      "id": "gallery3",
+      "description": "A young giraffe calf standing beside its mother.",
+      "imageUrl": "https://images.unsplash.com/photo-1689479665403-a41f8c04f5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYWJ5JTIwZ2lyYWZmZXxlbnwwfHx8fDE3NzA2MjM1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "baby giraffe"
+    },
+    {
+      "id": "gallery4",
+      "description": "A reticulated giraffe drinking from a waterhole.",
+      "imageUrl": "https://images.unsplash.com/photo-1727965839591-8d131331aefc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnaXJhZmZlJTIwZHJpbmtpbmd8ZW58MHx8fHwxNzcwNjIzNTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe drinking"
+    },
+    {
+      "id": "gallery5",
+      "description": "Two giraffes against a sunset backdrop.",
+      "imageUrl": "https://images.unsplash.com/photo-1645264237165-dc77b4106162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnaXJhZmZlJTIwc3Vuc2V0fGVufDB8fHx8MTc3MDYyMzU3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe sunset"
+    },
+    {
+      "id": "gallery6",
+      "description": "A giraffe walking through acacia trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1660983844640-5dd5b4bd7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnaXJhZmZlJTIwYWNhY2lhfGVufDB8fHx8MTc3MDYyMzU3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe acacia"
+    }
+  ]
 }
