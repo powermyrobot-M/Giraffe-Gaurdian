@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { Menu, X, Heart } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
 
 const navLinks = [
@@ -61,6 +61,7 @@ export function Header() {
             </Button>
           </SheetTrigger>
           <SheetContent side="right" className='w-[240px]'>
+            <SheetTitle className="sr-only">Menu</SheetTitle>
             <div className="flex flex-col space-y-4 p-4">
               <Link href="/" className="mr-6 flex items-center space-x-2" onClick={() => setIsOpen(false)}>
                   <Heart className="h-6 w-6 text-primary" />
