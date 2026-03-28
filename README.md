@@ -1,4 +1,4 @@
-# Giraffe Guardians - IRGCP
+A# Giraffe Guardians - IRGCP
 
 This is a NextJS application for the Isiolo Reticulated Giraffe Conservation Program (IRGCP).
 
