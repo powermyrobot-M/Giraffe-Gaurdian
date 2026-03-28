@@ -26,7 +26,7 @@ To move this project to your GitHub repository, follow these steps:
 
 1. Create a new repository on GitHub.
 2. Open your terminal in the project root.
-3. Initialize git:
+3.<> Initialize git:
    ```bash
    git init
    ```
